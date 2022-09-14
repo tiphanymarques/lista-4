@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand&family=Roboto&family=Seaweed+Script&display=swap');
+body{
+    width: 1200px;
+    font-family: 'Roboto';
+    margin: auto;
+    
+    }
+    
+
+
+h1{
+    color: #A93983;
+    font-family: 'Seaweed Script', cursive;
+    font-size: 72px;
+}
+
+
+.texto1{
+    font-family: 'Roboto';
+    font-size: 24px;
+    text-align: right;
+}
+
+.paragrafo2{
+    text-align: right;
+    font-family: 'Quicksand', sans-serif;
+    font-size: 18px;
+}
+
+.F4{
+    text-align: right;
+}
+
+.f6{
+    text-align: right;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

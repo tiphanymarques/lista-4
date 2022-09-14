@@ -1,0 +1,17 @@
+/* 2 da lista  */
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+body{
+    width: 1140px;
+    font-family: 'Roboto', sans-serif;
+}
+
+h1{
+    color: #000;
+}
+
+
+h2{
+    text-align: center;
+    text-size-adjust:30px;
+    color:  #2D8067
+}   
